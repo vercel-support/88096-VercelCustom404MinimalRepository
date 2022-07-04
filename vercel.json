@@ -1,8 +1,8 @@
 {
   "redirects": [
     { 
-      "source": "/page3",
-      "destination": "/page2", 
+      "source": "/page3/",
+      "destination": "/page2/", 
       "permanent": true
     },
     {
